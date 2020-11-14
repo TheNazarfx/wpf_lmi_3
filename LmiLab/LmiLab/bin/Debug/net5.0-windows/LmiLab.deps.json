@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": "net5.0-windows7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "net5.0-windows7.0": {
+      "LmiLab/1.0.0": {
+        "runtime": {
+          "LmiLab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LmiLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
